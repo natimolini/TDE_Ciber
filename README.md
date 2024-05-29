@@ -34,7 +34,7 @@ Esses são os membros da nossa equipe:
 </table>
 <p align="center">
 <br>
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=B0EBB4&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&color=B0EBB4&style=for-the-badge"/>
 </p>
 
 ## 📜 Descrição do Trabalho
